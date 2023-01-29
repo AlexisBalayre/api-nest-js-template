@@ -20,4 +20,3 @@ RUN yarn build
 EXPOSE 3001
 
 CMD [ "yarn", "start:prod" ] 
-# Might not be good entrypoint
